@@ -1,0 +1,7 @@
+credentials:
+  users: {}
+cookie:
+  name: "streamlit_legacy_auth"
+  key: "changeme_replace_in_env"
+  expires_days: 30
+preauthorized: {}
